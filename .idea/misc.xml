@@ -1,4 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.8 (maskYolov5Project)" project-jdk-type="Python SDK" />
+  <component name="UnattendedHostPersistenceState">
+    <option name="openedFilesInfos">
+      <list>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="15650" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/[E-06]kaggle.ipynb" />
+        </OpenedFileInfo>
+      </list>
+    </option>
+  </component>
 </project>
